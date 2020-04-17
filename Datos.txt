@@ -3,16 +3,16 @@
      Datos
      =====
 
-  - Nombre:  test
+  - Nombre:  Javier		
 
-  - Apellidos:
+  - Apellidos: González
 
-  - DNI:
+  - DNI: 32062191F
 
-  - e-mail:
+  - e-mail: javier.gonzalez.zarza@gmail.com	
 
-  - telefono:
+  - telefono: 601092714 / 956325299
 
-  - Domicilio:
+  - Domicilio: C/ Playa de bolonia Nº 1
 
-  - Estado Civil:
+  - Estado Civil: Soltero
