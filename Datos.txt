@@ -1,0 +1,18 @@
+
+
+     Datos
+     =====
+
+  - Nombre:
+
+  - Apellidos:
+
+  - DNI:
+
+  - e-mail:
+
+  - telefono:
+
+  - Domicilio:
+
+  - Estado Civil:
